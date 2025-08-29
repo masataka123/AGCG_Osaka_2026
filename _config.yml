@@ -18,10 +18,10 @@ header_images:
   - /assets/img/nakanoshima.jpg
   - /assets/img/IMG_2.jpg
   - /assets/img/tsutenkaku.jpg
+  - /assets/img/IMG_8.jpg
   - /assets/img/IMG_1.jpg
   - /assets/img/dotonbori.jpg
   - /assets/img/IMG_3.jpg
-  - /assets/img/IMG_4.jpg
   - /assets/img/IMG_6.jpg
 overlay_opacity: 0.35
 rotate_interval_ms: 6000
