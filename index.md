@@ -1,4 +1,11 @@
+---
+layout: default
+---
+<script src="{{ '/assets/js/header-rotator.js' | relative_url }}"></script>
+
 # Workshop on  Algebraic Geometry and Complex Geometry in Osaka
+
+
 
 ## Information
 - Date: 26th--30th, January 2026. (2026年1月26--30日)
@@ -169,14 +176,5 @@ Science Buildingsへの行き方は二つあります
 [ガイダンス資料+演習問題集](https://masataka123.github.io/2023_winter_generaltopology/material/0_位相問題集.pdf).
 -->
 
----
-layout: default
-title: Home
----
-
-# Welcome
-This is a test page.
-
-<script src="{{ '/assets/js/header-rotator.js' | relative_url }}"></script>
 
 
