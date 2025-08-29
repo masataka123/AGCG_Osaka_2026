@@ -19,6 +19,8 @@ header_images:
 overlay_opacity: 0.35
 rotate_interval_ms: 8000
 
-content_max_width: 1200px     # 本文エリアの最大幅（例：1200px や 72rem）
-header_height: 8rem           # ヘッダー上下の余白を増やす（合計で 16rem 分の高さ）
-header_min_height: 32vh       # 画面の高さに応じて最低高さを確保（例：32vh）
+# 既存の設定はそのまま
+header_max_width: 1200px   # ←ヘッダー内テキストの横幅を広げる
+header_height: 3.2rem      # ←上下余白を減らして縦幅を少し小さく（好みで）
+header_min_height: 26vh    # ←最低高さ（もう少し小さくしたければ 22vh など）
+content_max_width: 1200px  # ←本文側も広くしたい場合（任意）

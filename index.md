@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Home
 ---
+
 <script src="{{ '/assets/js/header-rotator.js' | relative_url }}"></script>
 
-# Workshop on  Algebraic Geometry and Complex Geometry in Osaka
 
 
 
