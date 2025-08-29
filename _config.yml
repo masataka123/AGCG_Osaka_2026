@@ -13,9 +13,15 @@ title: Workshop on Algebraic Geometry and Complex Geometry in Osaka
 header_image: /assets/img/osaka-castle.jpg   # JS無効時のデフォルト
 header_images:
   - /assets/img/osaka-castle.jpg
+  - /assets/img/IMG_5.jpg
   - /assets/img/nakanoshima.jpg
+  - /assets/img/IMG_2.jpg
   - /assets/img/tsutenkaku.jpg
+  - /assets/img/IMG_1.jpg
   - /assets/img/dotonbori.jpg
+  - /assets/img/IMG_3.jpg
+  - /assets/img/IMG_4.jpg
+  - /assets/img/IMG_6.jpg
 overlay_opacity: 0.35
 rotate_interval_ms: 8000
 
