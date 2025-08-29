@@ -20,6 +20,7 @@
   padding-top:    {{ site.header_height     | default: '4.5rem' }};
   padding-bottom: {{ site.header_height     | default: '4.5rem' }};
   min-height:     {{ site.header_min_height | default: '0' }};
+　text-align: center;     
 }
 
 /* （任意）本文も広くしたい場合 */
@@ -29,7 +30,24 @@
   padding-right: 1.25rem;
 }
 
+
 /* タイトルの視認性 */
 #project_title,#project_tagline{
   color:#fff; text-shadow:0 2px 6px rgba(0,0,0,.6);
+}
+/* 本文のベース文字サイズと行間 */
+body{
+  font-size: {{ site.body_font_size | default: '16px' }};
+  line-height: {{ site.line_height | default: '1.7' }};
+}
+
+/* 本文領域の見出しサイズ（ヘッダーの大見出しとは別） */
+#main_content_wrap h1{ font-size: {{ site.h1_size | default: '2.2rem' }}; }
+#main_content_wrap h2{ font-size: {{ site.h2_size | default: '1.6rem' }}; }
+#main_content_wrap h3{ font-size: {{ site.h3_size | default: '1.3rem' }}; }
+
+/* モバイルで大きすぎるときの軽い抑制（任意） */
+@media (max-width: 480px){
+  #main_content_wrap h1{ font-size: calc({{ site.h1_size | default: '2.2rem' }} * .9); }
+  #main_content_wrap h2{ font-size: calc({{ site.h2_size | default: '1.6rem' }} * .95); }
 }

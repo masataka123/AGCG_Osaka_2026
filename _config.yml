@@ -24,3 +24,9 @@ header_max_width: 1200px   # ←ヘッダー内テキストの横幅を広げる
 header_height: 3.2rem      # ←上下余白を減らして縦幅を少し小さく（好みで）
 header_min_height: 26vh    # ←最低高さ（もう少し小さくしたければ 22vh など）
 content_max_width: 1200px  # ←本文側も広くしたい場合（任意）
+
+body_font_size: 18px     # 本文の基本サイズ（例：17px, 18px など）
+h1_size: 2.4rem          # 本文側のH1
+h2_size: 1.8rem          # 本文側のH2
+h3_size: 1.4rem          # 本文側のH3
+line_height: 1.75        # 行間
