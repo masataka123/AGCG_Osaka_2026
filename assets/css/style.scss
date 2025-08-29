@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}";  /* SlateのCSSを先に読み込む */
 
-/* デフォルト背景（JSが無効でも表示） */
+/* JSが効かない場合でも1枚は出るようにCSSでデフォルト設定 */
 #header_wrap{
   background-image:
     linear-gradient(rgba(0,0,0,{{ site.overlay_opacity | default: 0.35 }}),
@@ -14,8 +14,8 @@
   background-repeat: no-repeat;
 }
 
-/* タイトル読みやすく */
-#project_title,#project_tagline{ color:#fff; text-shadow:0 2px 6px rgba(0,0,0,.6); }
-
-/* お好みで余白も */
 #header_wrap .inner{ padding: 4.5rem 0; }
+
+#project_title, #project_tagline{
+  color:#fff; text-shadow:0 2px 6px rgba(0,0,0,.6);
+}

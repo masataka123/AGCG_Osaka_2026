@@ -1,18 +1,20 @@
 #remote_theme: pages-themes/leap-day@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
-theme: jekyll-theme-cayman
-title: Workshop on Algebraic Geometry over complex number field or in positive characteristic
-description: Around positivity of tangent sheaves and anti-canonical divisors
-# theme: jekyll-theme-cayman
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Workshop on Algebraic Geometry and Complex Geometry in Osaka
 
-# ↓ ここを追加（お好みで）
+# description: Around positivity of tangent sheaves and anti-canonical divisors
+#theme: jekyll-theme-cayman
+
+# 画像と動作設定（必要に応じて差し替え）
+header_image: /assets/img/osaka-castle.jpg   # JS無効時のデフォルト
 header_images:
   - /assets/img/osaka-castle.jpg
   - /assets/img/nakanoshima.jpg
   - /assets/img/tsutenkaku.jpg
   - /assets/img/dotonbori.jpg
-rotate_interval_ms: 8000  # A案の切替間隔（ミリ秒）
-header_image: /assets/img/osaka-castle.jpg  # JS無効時のデフォルト
-header_height: 4.5rem                 # ヘッダーの上下余白（後述のCSSで利用）
-overlay_opacity: 0.35                 # 上に重ねる黒グラデの濃さ（0〜1）
+overlay_opacity: 0.35
+rotate_interval_ms: 8000
