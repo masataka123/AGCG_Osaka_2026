@@ -19,7 +19,7 @@
   max-width: {{ site.header_max_width | default: '1100px' }};
   padding-top:    {{ site.header_height     | default: '4.5rem' }};
   padding-bottom: {{ site.header_height     | default: '4.5rem' }};
-  min-height:     {{ site.header_min_height | default: '0' }};
+  min-height:     {{ site.header_min_height | default: '38vh' }};
   text-align: center;   /* ← 全角スペースを除去して有効化 */
 }
 
