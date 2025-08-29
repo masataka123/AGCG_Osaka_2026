@@ -23,7 +23,7 @@ header_images:
   - /assets/img/IMG_4.jpg
   - /assets/img/IMG_6.jpg
 overlay_opacity: 0.35
-rotate_interval_ms: 8000
+rotate_interval_ms: 6000
 
 # 既存の設定はそのまま
 header_max_width: 1200px   # ←ヘッダー内テキストの横幅を広げる
