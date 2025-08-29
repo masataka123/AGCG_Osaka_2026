@@ -20,7 +20,25 @@
   padding-top:    {{ site.header_height     | default: '4.5rem' }};
   padding-bottom: {{ site.header_height     | default: '4.5rem' }};
   min-height:     {{ site.header_min_height | default: '0' }};
-　text-align: center;     
+  text-align: center;   /* ← 全角スペースを除去して有効化 */
+}
+
+/* ヘッダーを“強制センター”にする（Slateの既定を上書き） */
+div#header_wrap > header.inner{
+  display: flex;
+  flex-direction: column;
+  align-items: center;     /* 横中央 */
+  justify-content: center; /* 縦中央（任意） */
+  text-align: center;
+}
+
+/* タイトルの視認性＆余白調整 */
+#project_title,
+#project_tagline{
+  color:#fff;
+  text-shadow:0 2px 6px rgba(0,0,0,.6);
+  margin-left: auto;  /* 念のため中央寄せを助ける */
+  margin-right: auto;
 }
 
 /* （任意）本文も広くしたい場合 */
@@ -30,11 +48,6 @@
   padding-right: 1.25rem;
 }
 
-
-/* タイトルの視認性 */
-#project_title,#project_tagline{
-  color:#fff; text-shadow:0 2px 6px rgba(0,0,0,.6);
-}
 /* 本文のベース文字サイズと行間 */
 body{
   font-size: {{ site.body_font_size | default: '16px' }};
