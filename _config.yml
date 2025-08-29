@@ -30,3 +30,6 @@ h1_size: 2.4rem          # 本文側のH1
 h2_size: 1.8rem          # 本文側のH2
 h3_size: 1.4rem          # 本文側のH3
 line_height: 1.75        # 行間
+
+github:
+  is_project_page: false
