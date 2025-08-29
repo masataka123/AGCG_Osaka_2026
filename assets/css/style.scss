@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";  /* SlateのCSSを先に読み込む */
+@import "{{ site.theme }}";  /* Slate のCSSを先に読み込む */
 
-/* JSが効かない場合でも1枚は出るようにCSSでデフォルト設定 */
+/* =============== 背景画像（既存のまま） =============== */
 #header_wrap{
   background-image:
     linear-gradient(rgba(0,0,0,{{ site.overlay_opacity | default: 0.35 }}),
@@ -14,8 +14,38 @@
   background-repeat: no-repeat;
 }
 
-#header_wrap .inner{ padding: 4.5rem 0; }
+/* ヘッダーの縦幅（上下余白＋最低高さ） */
+#header_wrap .inner{
+  padding-top:    {{ site.header_height     | default: '4.5rem' }};
+  padding-bottom: {{ site.header_height     | default: '4.5rem' }};
+  min-height:     {{ site.header_min_height | default: '0' }};
+}
 
+/* タイトルの視認性を少しアップ（任意） */
 #project_title, #project_tagline{
-  color:#fff; text-shadow:0 2px 6px rgba(0,0,0,.6);
+  color:#fff;
+  text-shadow:0 2px 6px rgba(0,0,0,.6);
+}
+
+/* =============== 横幅を広げる（本文のみ or 全体） =============== */
+/* 本文エリアだけ広げたい場合（おすすめ） */
+#main_content_wrap .inner{
+  max-width: {{ site.content_max_width | default: '72rem' }};
+  padding-left: 1.25rem;   /* 端の余白（お好みで） */
+  padding-right: 1.25rem;
+}
+
+/* ヘッダーやフッターのテキスト幅も広げたいなら、代わりに下を使う
+.inner{
+  max-width: {{ site.content_max_width | default: '72rem' }};
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+*/
+
+/* 大画面だけさらに広げたい等の調整（任意） */
+@media (min-width: 1400px){
+  #main_content_wrap .inner{
+    max-width: calc({{ site.content_max_width | default: '1200px' }} + 100px);
+  }
 }

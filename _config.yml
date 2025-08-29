@@ -18,3 +18,7 @@ header_images:
   - /assets/img/dotonbori.jpg
 overlay_opacity: 0.35
 rotate_interval_ms: 8000
+
+content_max_width: 1200px     # 本文エリアの最大幅（例：1200px や 72rem）
+header_height: 8rem           # ヘッダー上下の余白を増やす（合計で 16rem 分の高さ）
+header_min_height: 32vh       # 画面の高さに応じて最低高さを確保（例：32vh）
