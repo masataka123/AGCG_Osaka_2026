@@ -14,10 +14,11 @@ title: Home
 Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホール)
 
 ## Speakers
+- Eiji Inoue (Kyoto University)
 - Haidong Liu (Sun Yat-sen University)
 - Guolei Zhong (IBS-CCG: Center for Complex Geometry of Institute for Basic Science)
-- Eiji Inoue (Kyoto University)
-T.B.A
+
+T.B.A.
 
 ## Schedule
 
