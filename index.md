@@ -7,11 +7,10 @@ title: Home
 
 
 
-
 ## Information
-- Date: 26th--30th, January 2026. (2026年1月26--30日)
+- Date: January 26th (Mon) -- 30th (Fri) morning, 2026 (2026年1月26日(月)~1月30日(金) 午前)
 - Place: Nambu Yoichiro Hall (2F), the University of Osaka, Toyonaka Campus
-Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホール)
+Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホール 2F)
 
 ## Speakers
 - Eiji Inoue (Kyoto University)
