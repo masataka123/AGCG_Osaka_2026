@@ -16,6 +16,7 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 ## Speakers
 - Eiji Inoue (Kyoto University)
 - Haidong Liu (Sun Yat-sen University)
+- Chenyang Xu (Princeton university)
 - Guolei Zhong (IBS-CCG: Center for Complex Geometry of Institute for Basic Science)
 
 T.B.A.
