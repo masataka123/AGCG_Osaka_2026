@@ -13,12 +13,15 @@ title: Home
 Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホール 2F)
 
 ## Speakers
+- Yoshinori Hashimoto (Osaka Metropolitan University.)
 - Eiji Inoue (Kyoto University)
+- Zhan Li (Southern University of Science and Technology (SUSTech))
 - Haidong Liu (Sun Yat-sen University)
 - Jihao Liu (Peking University)
+- Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Chenyang Xu (Princeton university)
 - Kewei Zhang (Beijing Normal University)
-- Guolei Zhong (IBS-CCG: Center for Complex Geometry of Institute for Basic Science)
+- Guolei Zhong (Center for Complex Geometry of Institute for Basic Science (IBS-CCG))
 - Chuyu Zhou (Xiamen University)
 
 T.B.A.
