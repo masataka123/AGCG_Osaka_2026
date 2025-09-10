@@ -19,6 +19,7 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Haidong Liu (Sun Yat-sen University)
 - Jihao Liu (Peking University)
 - Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
+- Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Chenyang Xu (Princeton university)
 - Kewei Zhang (Beijing Normal University)
 - Guolei Zhong (Center for Complex Geometry of Institute for Basic Science (IBS-CCG))
