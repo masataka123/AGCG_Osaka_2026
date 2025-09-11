@@ -13,6 +13,7 @@ title: Home
 Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホール 2F)
 
 ## Speakers
+- Makoto Enokizono (the University of Tokyo)
 - Yoshinori Hashimoto (Osaka Metropolitan University)
 - Eiji Inoue (Kyoto University)
 - Zhan Li (Southern University of Science and Technology (SUSTech))
