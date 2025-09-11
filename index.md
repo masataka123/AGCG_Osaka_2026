@@ -15,6 +15,7 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 ## Speakers
 - Makoto Enokizono (the University of Tokyo)
 - Yoshinori Hashimoto (Osaka Metropolitan University)
+- Masafumi Hattori (University of Nottingham)
 - Eiji Inoue (Kyoto University)
 - Zhan Li (Southern University of Science and Technology (SUSTech))
 - Haidong Liu (Sun Yat-sen University)
