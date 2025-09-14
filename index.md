@@ -20,6 +20,7 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Zhan Li (Southern University of Science and Technology (SUSTech))
 - Haidong Liu (Sun Yat-sen University)
 - Jihao Liu (Peking University)
+- Shin-ichi Matsumura (Tohoku University)
 - Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Chenyang Xu (Princeton university)
