@@ -142,7 +142,7 @@ There are 2 ways to get to Nambu Yoichiro Hall (2F) in the University of Osaka (
 1. **From "Shibahara-handai-mae" Station (monorail)** -柴原阪大前 (大阪モノレール)-: Around 8 minutes on foot.
 Here are the directions from "Shibahara-handai-mae" Station (monorail) to Nambu Yoichiro Hall  [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_shibahara_en.pdf)
 2.  **From "Ishibashi handai-mae" Station  (Hankyu)** -石橋阪大前 (阪急電鉄)-: Around 30 minutes on foot.
-Here are the directions from "Ishibashi handai-mae" Station (Hankyu) to Nambu Yoichiro Hall . [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_ishibashi.pdf)
+Here are the directions from "Ishibashi handai-mae" Station (Hankyu) to Nambu Yoichiro Hall . [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_ishibashi_en.pdf)
 
 We recommend using "Shibahara-handai-mae" Station (monorail). 
 
