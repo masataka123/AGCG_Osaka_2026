@@ -38,7 +38,6 @@ T.B.A.
 Some participants got emails from a so-called “travel agency” about hotel booking.
 **Please be careful, these are spam**.
 The organizers will contact you directly about hotel reservations, visa documents, and other arrangements.
-Whenever you see such an email, please make sure the sender is really us.
 
 ## Schedule
 
