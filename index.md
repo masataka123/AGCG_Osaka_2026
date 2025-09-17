@@ -33,6 +33,13 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 
 T.B.A.
 
+## Caution about spam emails
+
+Some participants got emails from a so-called “travel agency” about hotel booking.
+**Please be careful, these are spam**.
+The organizers will contact you directly about hotel reservations, visa documents, and other arrangements.
+Whenever you see such an email, please make sure the sender is really us.
+
 ## Schedule
 
 This schedule may be subject to change.
