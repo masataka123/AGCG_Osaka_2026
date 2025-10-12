@@ -22,6 +22,7 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Haidong Liu (Sun Yat-sen University)
 - Jihao Liu (Peking University)
 - Shin-ichi Matsumura (Tohoku University)
+- Niklas M&uuml;ller (University of Freiburg)
 - Rei Murakami (Tohoku University)
 - Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
@@ -31,7 +32,6 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Guolei Zhong (Center for Complex Geometry of Institute for Basic Science (IBS-CCG))
 - Chuyu Zhou (Xiamen University)
 
-T.B.A.
 
 ## Caution about spam emails
 
