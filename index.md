@@ -46,32 +46,40 @@ This schedule may be subject to change.
 ### 26th January (Monday)
 
 1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
-3. 14:30--15:30 TBA
-4. 16:00--17:00 TBA
+2. 11:15--12:15 TBA
+3. 14:00--15:00 TBA
+- Tea Break
+4. 15:30--16:00 TBA
+4. 16:15--17:15 TBA
 
 ### 27th January (Tuesday)
 
 1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
-3. 14:30--15:30 TBA
-4. 16:00--17:00 TBA
+2. 11:15--12:15 TBA
+3. 14:00--15:00 TBA
+- Tea Break
+4. 15:30--16:00 TBA
+4. 16:15--17:15 TBA
 
 ### 28th January (Wednesday)
 
 1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
+2. 11:15--12:15 TBA
 
 
 ### 29th January (Thursday)
+
 1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
-3. 14:30--15:30 TBA
-4. 16:00--17:00 TBA
+2. 11:15--12:15 TBA
+3. 14:00--15:00 TBA
+- Tea Break
+4. 15:30--16:00 TBA
+4. 16:15--17:15 TBA
 
 ### 30th January (Friday)
+
 1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
+2. 11:15--12:15 TBA
 
 
 <!-- 
