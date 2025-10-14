@@ -172,10 +172,9 @@ We recommend using "Shibahara-handai-mae" Station (monorail).
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
-## Supports 1 (the University of Osaka)
-This conference is supported by "Global Academic Collaboration Program" in the University of Osaka.
-
-## Supports 2 (KAKENHI)
+## Supports 
+- 2024 Asian Young Scientist Fellowship (Fujita)
+- "Global Academic Collaboration Program" in the University of Osaka. (Iwai)
 - JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
 
 ## Links
