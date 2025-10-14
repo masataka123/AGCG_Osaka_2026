@@ -12,7 +12,7 @@ title: Home
 - Place: Nambu Yoichiro Hall (2F), the University of Osaka, Toyonaka Campus
 Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホール 2F)
 
-## Speakers
+## Invited Speakers
 - Makoto Enokizono (the University of Tokyo)
 - Yoshinori Hashimoto (Osaka Metropolitan University)
 - Masafumi Hattori (University of Nottingham)
@@ -20,18 +20,19 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Masayuki Kawakita (Research Institute for Mathematical Sciences (RIMS), Kyoto University)
 - Zhan Li (Southern University of Science and Technology (SUSTech))
 - Haidong Liu (Sun Yat-sen University)
-- Jihao Liu (Peking University)
+- Jihao Liu (Peking University) 
 - Shin-ichi Matsumura (Tohoku University)
 - Niklas M&uuml;ller (University of Freiburg)
-- Rei Murakami (Tohoku University)
 - Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Chenyang Xu (Princeton university)
-- Zheng Xu (Peking University)
 - Kewei Zhang (Beijing Normal University)
 - Guolei Zhong (Center for Complex Geometry of Institute for Basic Science (IBS-CCG))
 - Chuyu Zhou (Xiamen University)
 
+### Short-Talk Speakers 
+- Rei Murakami (Tohoku University)
+- Zheng Xu (Peking University)
 
 ## Caution about spam emails
 
@@ -48,7 +49,7 @@ This schedule may be subject to change.
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 3. 14:00--15:00 TBA
-- Tea Break
+**Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
 
@@ -57,7 +58,7 @@ This schedule may be subject to change.
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 3. 14:00--15:00 TBA
-- Tea Break
+**Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
 
@@ -72,7 +73,7 @@ This schedule may be subject to change.
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 3. 14:00--15:00 TBA
-- Tea Break
+**Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
 
