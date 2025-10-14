@@ -49,6 +49,7 @@ This schedule may be subject to change.
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 3. 14:00--15:00 TBA
+- **Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
 
@@ -57,6 +58,7 @@ This schedule may be subject to change.
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 3. 14:00--15:00 TBA
+- **Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
 
@@ -71,6 +73,7 @@ This schedule may be subject to change.
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 3. 14:00--15:00 TBA
+- **Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
 
