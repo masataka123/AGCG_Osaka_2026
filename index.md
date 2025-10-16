@@ -31,6 +31,7 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Chuyu Zhou (Xiamen University)
 
 ### Short-Talk Speakers 
+- Satoshi Jinnouchi (The University of Osaka)
 - Rei Murakami (Tohoku University)
 - Zheng Xu (Peking University)
 
