@@ -77,6 +77,7 @@ This schedule may be subject to change.
 - **Tea Break**
 4. 15:30--16:00 TBA
 4. 16:15--17:15 TBA
+- **Banquet** 18:00-- 
 
 ### 30th January (Friday)
 
@@ -150,8 +151,9 @@ We will inform around  December 2025.
 Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/tangent_anticanonical/material/program_tangent_anticanonical.pdf)
 -->
 
+##  Banquet
 
-
+We will inform around  November or December 2025.
 
 ## Access
 There are 2 ways to get to Nambu Yoichiro Hall (2F) in the University of Osaka (Toyonaka Campus):
