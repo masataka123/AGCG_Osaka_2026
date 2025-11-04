@@ -153,7 +153,13 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 
 ##  Banquet
 
-We will inform around  November or December 2025.
+We will hold a banquet as follows.
+
+- Date & Time:  January 29 (Thu) 2026, 18:00–20:30
+- Venue: Cafeteria La Foret, the University of Osaka (カフェテリア らふぉれ 大阪大学内)
+
+If you plan to join the banquet, please fill out [this form](https://forms.office.com/r/5zeTqzxuv0) by **December 19 (Fri), 2025**.
+
 
 ## Access
 There are 2 ways to get to Nambu Yoichiro Hall (2F) in the University of Osaka (Toyonaka Campus):
