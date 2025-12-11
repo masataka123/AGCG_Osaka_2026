@@ -193,6 +193,7 @@ Osaka University's Toyonaka Campus (大阪大学 豊中キャンパス) is withi
 Here are the directions from "Shibahara-handai-mae" Station (monorail) to Nambu Yoichiro Hall (南部陽一郎ホール) [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_shibahara_en.pdf)
 
 Here is the campus map.
+
 ![Map](https://masataka123.github.io/AGCG_Osaka_2026/material/venue.png)
 
 
