@@ -48,41 +48,38 @@ This schedule may be subject to change.
 ### 26th January (Monday)
 
 1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
+2. 11:20--12:20 TBA
 3. 14:00--15:00 TBA
-- **Tea Break**
-4. 15:30--16:00 TBA
-4. 16:15--17:15 TBA
+4. 15:20--15:50 TBA
+4. 16:10--17:10 TBA
 
 ### 27th January (Tuesday)
 
 1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
+2. 11:20--12:20 TBA
 3. 14:00--15:00 TBA
-- **Tea Break**
-4. 15:30--16:00 TBA
-4. 16:15--17:15 TBA
+4. 15:20--15:50 TBA
+4. 16:10--17:10 TBA
 
 ### 28th January (Wednesday)
 
 1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
+2. 11:20--12:20 TBA
 
 
 ### 29th January (Thursday)
 
 1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
+2. 11:20--12:20 TBA
 3. 14:00--15:00 TBA
-- **Tea Break**
-4. 15:30--16:00 TBA
-4. 16:15--17:15 TBA
+4. 15:20--15:50 TBA
+4. 16:10--17:10 TBA
 - **Banquet** 18:00-- 
 
 ### 30th January (Friday)
 
 1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
+2. 11:20--12:20 TBA
 
 
 <!-- 
@@ -160,19 +157,49 @@ We will hold a banquet as follows.
 
 If you plan to join the banquet, please fill out [this form](https://forms.office.com/r/5zeTqzxuv0) by **December 19 (Fri), 2025**.
 
-
 ## Access
-There are 2 ways to get to Nambu Yoichiro Hall (2F) in the University of Osaka (Toyonaka Campus):
 
-1. **From "Shibahara-handai-mae" Station (monorail)** -柴原阪大前 (大阪モノレール)-: Around 8 minutes on foot.
-Here are the directions from "Shibahara-handai-mae" Station (monorail) to Nambu Yoichiro Hall  [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_shibahara_en.pdf)
-2.  **From "Ishibashi handai-mae" Station  (Hankyu)** -石橋阪大前 (阪急電鉄)-: Around 30 minutes on foot.
-Here are the directions from "Ishibashi handai-mae" Station (Hankyu) to Nambu Yoichiro Hall . [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_ishibashi_en.pdf)
+Many speakers will be accommodated at [Senri Hankyu Hotel](https://www.hankyu-hotel.com/en/hotel/hh/senrihh/access) (千里阪急ホテル), which is adjacent to Senri-Chuo Station (千里中央駅) on [Osaka Monorail](https://www.osaka-monorail.co.jp/language/en/wayside/) (大阪モノレール) and on [Kita-Osaka Kyuko Line](https://www.kita-kyu.co.jp/en/) (北大阪急行).
 
-We recommend using "Shibahara-handai-mae" Station (monorail). 
+### Access to Senri-Chuo Station (千里中央駅) from KIX(関西国際空港)
+I will tell the 3 main options. (There are other ways as well.)
 
- If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
+1. Nankai Railway to Namba + subway
+- From Kansai Airport Station, take the Nankai Railway(南海) to Namba(難波)
+(either the “Airport Express” or the limited express “Rapi:t”,about 40–45 minutes).
+- At Namba, follow the signs to “Subway Midosuji Line”(御堂筋線).
+Take the subway towards Senri-Chuo(千里中央) and get off Senri-Chuo Station (about 30 minutes).
+2. JR train to Osaka(大阪) or Shin-Osaka(新大阪) + subway
+- From Kansai Airport Station, take a JR train (for example, the limited express “Haruka”) to Osaka(大阪) or Shin-Osaka(新大阪) statin.
+(about 40–45 minutes if you take limited express)
+- Follow the signs for “Subway Midosuji Line”(御堂筋線).
+Take the subway towards Senri-Chuo(千里中央) and get off Senri-Chuo Station (about 20-25 minutes).
+3. Airport Limousine Bus + monorail(モノレール)
+- Take Airport Limousine Bus from KIX to Itami Airport (伊丹空港) at Terminal 1 (1st floor) of KIX (about 70 minutes)
+- Follow the signs for "Osaka Monorail"(大阪モノレール) – Osaka-Airport Station”
+Take the Osaka Monorail in the direction of “Senri-Chuo”(千里中央). Senri-Chuo is just four stops away via the monorail
 
+Notice that Japanese taxi is expensive. For example, it takes 25000 yen from KIX(関西国際空港) to Senri-Chuo Station (千里中央駅).
+So we recommend that you use train or bus.
+
+### Access to Senri Hankyu Hotel (千里阪急ホテル) from Senri-Chuo Station (千里中央駅).
+Here is the direction from Senri-Chuo Station (千里中央駅) to Senri Hankyu Hotel (千里阪急ホテル) taken from [the hotel's webpage](https://www.hankyu-hotel.com/hotel/hh/senrihh/access).
+
+### Access to conference venue from Senri-Chuo Station (千里中央駅).
+Take "Osaka Monorail"(大阪モノレール) and get off Shibahara-Handai-mae Station (柴原阪大前駅). 
+Shibahara-Handai-mae Station (柴原阪大前駅)i s just 2 stops away via the monorail from Senri-Chuo Station (千里中央駅).
+
+Osaka University's Toyonaka Campus (大阪大学 豊中キャンパス) is within a 8-minute walk from Osaka monorail's Shibahara-Handai-mae Station (柴原阪大前駅). 
+Here are the directions from "Shibahara-handai-mae" Station (monorail) to Nambu Yoichiro Hall (南部陽一郎ホール) [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_shibahara_en.pdf)
+Here is the campus map.
+![Map](./venue.png)
+
+
+### Other information
+ - If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
+ - If you take Ishibashi handai-mae" Station  (Hankyu) (石橋阪大前 (阪急電鉄)), please see  the directions from "Ishibashi handai-mae" Station (Hankyu) to Nambu Yoichiro Hall. [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_ishibashi_en.pdf) 
+ (But we don't recommend because it took 30 minutes on foot.)
+ 
  
 ## Organizers
 - Kento Fujita (The University of Osaka)
@@ -184,7 +211,7 @@ If you have any questions concerning this conference, please contact Masataka Iw
 ## Supports 
 - 2024 Asian Young Scientist Fellowship (Fujita)
 - "Global Academic Collaboration Program" in the University of Osaka. (Iwai)
-- JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
+
 
 ## Links
 - [Workshop on Complex Geometry in Osaka 2024](https://masataka123.github.io/complexgeometry_osaka_2024/)
@@ -193,6 +220,7 @@ If you have any questions concerning this conference, please contact Masataka Iw
 
 
 <!-- 
+- JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
 - JSPS KAKENHI  22KK0232 Fund for the Promotion of Joint International Research (Fostering Joint International Research (A)) (Koike)
 - JSPS KAKENHI 21H00976 Grant-in-Aid for Scientific Research (B) (Matsumura)
 - JSPS KAKENHI 22K13903 Grant-in-Aid for Early-Career Scientists (Matsuzawa)
