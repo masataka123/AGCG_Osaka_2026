@@ -192,7 +192,7 @@ Shibahara-Handai-mae Station (柴原阪大前駅)i s just 2 stops away via the m
 Osaka University's Toyonaka Campus (大阪大学 豊中キャンパス) is within a 8-minute walk from Osaka monorail's Shibahara-Handai-mae Station (柴原阪大前駅). 
 Here are the directions from "Shibahara-handai-mae" Station (monorail) to Nambu Yoichiro Hall (南部陽一郎ホール) [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_shibahara_en.pdf)
 Here is the campus map.
-![Map](./venue.png)
+![Map](https://masataka123.github.io/AGCG_Osaka_2026/material/venue.png)
 
 
 ### Other information
