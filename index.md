@@ -198,7 +198,7 @@ Here is the campus map.
 ### Other information
  - If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
  - If you take Ishibashi handai-mae" Station  (Hankyu) (石橋阪大前 (阪急電鉄)), please see  the directions from "Ishibashi handai-mae" Station (Hankyu) to Nambu Yoichiro Hall. [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_ishibashi_en.pdf) 
- (But we don't recommend because it took 30 minutes on foot.)
+ (But we don't recommend because it takes 30 minutes on foot.)
  
  
 ## Organizers
