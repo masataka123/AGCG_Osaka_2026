@@ -159,7 +159,7 @@ If you plan to join the banquet, please fill out [this form](https://forms.offic
 
 ## Access
 
-Many speakers will be accommodated at [Senri Hankyu Hotel](https://www.hankyu-hotel.com/en/hotel/hh/senrihh/access) (千里阪急ホテル), which is adjacent to Senri-Chuo Station (千里中央駅) on [Osaka Monorail](https://www.osaka-monorail.co.jp/language/en/wayside/) (大阪モノレール) and on [Kita-Osaka Kyuko Line](https://www.kita-kyu.co.jp/en/) (北大阪急行).
+Many speakers will stay at [Senri Hankyu Hotel](https://www.hankyu-hotel.com/en/hotel/hh/senrihh/access) (千里阪急ホテル), which is adjacent to Senri-Chuo Station (千里中央駅) on [Osaka Monorail](https://www.osaka-monorail.co.jp/language/en/wayside/) (大阪モノレール) and on [Kita-Osaka Kyuko Line](https://www.kita-kyu.co.jp/en/) (北大阪急行).
 
 ### Access to Senri-Chuo Station (千里中央駅) from KIX(関西国際空港)
 I will tell the 3 main options. (There are other ways as well.)
@@ -191,6 +191,7 @@ Shibahara-Handai-mae Station (柴原阪大前駅)i s just 2 stops away via the m
 
 Osaka University's Toyonaka Campus (大阪大学 豊中キャンパス) is within a 8-minute walk from Osaka monorail's Shibahara-Handai-mae Station (柴原阪大前駅). 
 Here are the directions from "Shibahara-handai-mae" Station (monorail) to Nambu Yoichiro Hall (南部陽一郎ホール) [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_shibahara_en.pdf)
+
 Here is the campus map.
 ![Map](https://masataka123.github.io/AGCG_Osaka_2026/material/venue.png)
 
