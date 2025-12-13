@@ -23,18 +23,19 @@ Toyonaka, Osaka, Japan. (大阪大学 豊中キャンパス 南部陽一郎ホ�
 - Jihao Liu (Peking University) 
 - Shin-ichi Matsumura (Tohoku University)
 - Niklas M&uuml;ller (University of Freiburg)
-- Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
-- Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
+- Rei Murakami (Tohoku University)
+- Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS)) **Online**.
+- Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS)) **Online**.
 - Chenyang Xu (Princeton university)
 - Kewei Zhang (Beijing Normal University)
 - Guolei Zhong (Center for Complex Geometry of Institute for Basic Science (IBS-CCG))
-- Chuyu Zhou (Xiamen University)
+
 
 ### Short-Talk Speakers 
 - Satoshi Jinnouchi (The University of Osaka)
-- Rei Murakami (Tohoku University)
 - Zheng Xu (Peking University)
 
+The talk by Chuyu Zhou (Xiamen University) has been canceled.
 ## Caution about spam emails
 
 Some participants got emails from a so-called “travel agency” about hotel booking.
@@ -47,39 +48,56 @@ This schedule may be subject to change.
 
 ### 26th January (Monday)
 
-1. 10:00--11:00 TBA
-2. 11:20--12:20 TBA
-3. 14:00--15:00 TBA
-4. 15:20--15:50 TBA
-4. 16:10--17:10 TBA
+1. 10:00--11:00 **Masayuki Kawakita (Research Institute for Mathematical Sciences (RIMS), Kyoto University)** <br>
+Minimal log discrepancies on threefold singularities
+2. 11:20--12:20 **Zhan Li (Southern University of Science and Technology (SUSTech))** <br>
+On the Morrison-Kawamata dream space and its applications
+3. 14:00--15:00 **Jihao Liu (Peking University)** <br>
+Birational geometry of algebraically integrable adjoint foliated structures
+4. 15:20--15:50 **Zheng Xu (Peking University)** <br>
+Abundance conjecture for foliations
+4. 16:10--17:10 **Eiji Inoue (Kyoto University)** <br>
+An algebro-geometric entropy formula for MMP with scaling
 
 ### 27th January (Tuesday)
 
-1. 10:00--11:00 TBA
-2. 11:20--12:20 TBA
-3. 14:00--15:00 TBA
-4. 15:20--15:50 TBA
-4. 16:10--17:10 TBA
+1. 10:00--11:00 **Chenyang Xu (Princeton university)** <br>
+Properness of K-moduli
+2. 11:20--12:20 **Masafumi Hattori (University of Nottingham)** <br>
+Applications of K-moduli of quasimaps to K-moduli conjecture for Calabi-Yau fibrations over curves
+3. 14:00--15:00 **Makoto Enokizono (the University of Tokyo)** <br>
+Normal stable degenerations of Horikawa surfaces
+4. 15:20--16:20 **Guolei Zhong (Center for Complex Geometry of Institute for Basic Science (IBS-CCG))** <br>
+Holomorphic symplectic geometry of elliptic surfaces
 
 ### 28th January (Wednesday)
 
-1. 10:00--11:00 TBA
-2. 11:20--12:20 TBA
+1. 10:00--11:00 **Haidong Liu (Sun Yat-sen University)** <br>
+A Kawamata-Miyaoka type inequality
+2. 11:20--12:20 **Niklas Müller (University of Freiburg)** <br>
+Inequalities of Miyaoka-type and Uniformisation of Minimal Varieties of Intermediate Kodaira Dimension
 
 
 ### 29th January (Thursday)
 
-1. 10:00--11:00 TBA
-2. 11:20--12:20 TBA
-3. 14:00--15:00 TBA
-4. 15:20--15:50 TBA
-4. 16:10--17:10 TBA
+1. 10:00--11:00 **Shin-ichi Matsumura (Tohoku University)** <br>
+The nonvanishing problem for varieties with nef anticanonical bundle
+2. 11:20--12:20 **Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))** <br>
+Fundamental groups of compact Kähler varieties with nef anti-log canonical divisor
+3. 14:00--15:00 **Wenhao Ou (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))** <br>
+Unitary flat vector bundles on compact Kähler varieties 
+4. 15:20--15:50 **Satoshi Jinnouchi (The University of Osaka)** <br>
+Towards the Kobayashi-Hitchin correspondence for big classes
+4. 16:10--17:10 **Rei Murakami (Tohoku University)** <br>
+An analytic proof of Griffiths' conjecture on compact Riemann surfaces
 - **Banquet** 18:00-- 
 
 ### 30th January (Friday)
 
-1. 10:00--11:00 TBA
-2. 11:20--12:20 TBA
+1. 10:00--11:00 **Kewei Zhang (Beijing Normal University)** <br>
+Regularizing the entropy in Kähler geometry
+2. 11:20--12:20 **Yoshinori Hashimoto (Osaka Metropolitan University)** <br>
+Coupled Kähler-Einstein metrics and coupled Ding stability 
 
 
 <!-- 
@@ -142,10 +160,10 @@ Kodaira vanishing for smooth Fano threefolds in positive characteristic
 
 ##  Program
 
-We will inform around  December 2025.
+Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/AGCG_Osaka_2026/material/program_AGCG_Osaka.pdf)
 
 <!--
-Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/tangent_anticanonical/material/program_tangent_anticanonical.pdf)
+We will inform around  December 2025.
 -->
 
 ##  Banquet
@@ -212,7 +230,7 @@ If you have any questions concerning this conference, please contact Masataka Iw
 
 ## Supports 
 - 2024 Asian Young Scientist Fellowship (Fujita)
-- "Global Academic Collaboration Program" in the University of Osaka. (Iwai)
+- Global Academic Collaboration Program in the University of Osaka. (Iwai)
 
 
 ## Links
