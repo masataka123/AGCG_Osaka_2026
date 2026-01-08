@@ -164,6 +164,7 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 
 <!--
 We will inform around  December 2025.
+If you plan to join the banquet, please fill out [this form](https://forms.office.com/r/5zeTqzxuv0) by **December 19 (Fri), 2025**.
 -->
 
 ##  Banquet
@@ -173,7 +174,8 @@ We will hold a banquet as follows.
 - Date & Time:  January 29 (Thu) 2026, 18:00–20:30
 - Venue: Cafeteria La Foret, the University of Osaka (カフェテリア らふぉれ 大阪大学内)
 
-If you plan to join the banquet, please fill out [this form](https://forms.office.com/r/5zeTqzxuv0) by **December 19 (Fri), 2025**.
+We have closed registration. 
+If you would still like to attend the banquet, please contact Iwai on January 29.
 
 ## Access
 
