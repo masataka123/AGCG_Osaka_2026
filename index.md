@@ -177,6 +177,9 @@ We will hold a banquet as follows.
 We have closed registration. 
 If you would still like to attend the banquet, please contact Iwai on January 29.
 
+## Lunch map
+Here is a Lunch map near the University of Osaka [Lunch map](https://masataka123.github.io/AGCG_Osaka_2026/material/lunch_map.pdf)
+
 ## Access
 
 Many speakers will stay at [Senri Hankyu Hotel](https://www.hankyu-hotel.com/en/hotel/hh/senrihh/access) (千里阪急ホテル), which is adjacent to Senri-Chuo Station (千里中央駅) on [Osaka Monorail](https://www.osaka-monorail.co.jp/language/en/wayside/) (大阪モノレール) and on [Kita-Osaka Kyuko Line](https://www.kita-kyu.co.jp/en/) (北大阪急行).
